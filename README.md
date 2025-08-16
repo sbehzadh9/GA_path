@@ -73,6 +73,7 @@ Steps:
 5. The optimal path will be plotted after computation.
 
 ---
+![Alt text](img/env.JPG)
 
 ## Customization
 
@@ -84,8 +85,3 @@ Steps:
 - Change the number of waypoints or mutation rate in `ga/ga_utils.py`.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
